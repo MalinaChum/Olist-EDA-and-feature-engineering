@@ -1,0 +1,25 @@
+# Olist E-Commerce Delivery Prediction
+# Python Package Requirements
+# Last Updated: March 2026
+
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Jupyter (Optional - for notebook execution)
+jupyter>=1.0.0
+notebook>=6.5.0
+
+# Additional Utilities
+scipy>=1.9.0
+
+# Installation Instructions:
+# Run: pip install -r requirements.txt
+# Or with conda: conda install --file requirements.txt

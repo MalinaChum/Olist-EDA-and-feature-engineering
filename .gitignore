@@ -1,0 +1,55 @@
+# Data files (too large for GitHub)
+*.csv
+*.zip
+Olist Dataset/
+Olist Dataset (1)/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VSCode
+.vscode/
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Model files (if saved)
+*.pkl
+*.joblib
+*.h5
+
+# Logs
+*.log
