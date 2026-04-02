@@ -19,7 +19,6 @@ Olist-Delivery-Project/
 │
 ├── Olist_Delivery_Analysis_Project.ipynb    # Main analysis notebook
 ├── README.md                                  # This file
-├── Draft report.pdf                           # Initial project report
 ├── EDA & Feature engineering.ipynb            # Original EDA work
 │
 └── Olist Dataset (1)/                         # Data files
